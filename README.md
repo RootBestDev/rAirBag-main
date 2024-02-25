@@ -2,6 +2,8 @@
 Système de Airbag véhicules pour fivem
 
 Utilisez la commande "/airbag" pour activer l'airbag
+
+
 __**Vous pourrez trouvez dans le cl_airbag.lua ceci :**__ 
 
 __**local damageLevel = 960.0 :**__ Mettez damageLevel à 100,0 pour activer les airbags lorsque le véhicule n'est plus conduisible
